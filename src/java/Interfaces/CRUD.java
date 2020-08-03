@@ -9,6 +9,6 @@ package Interfaces;
  *
  * @author CR
  */
-public class CRUD {
+public interface CRUD {
     
 }
